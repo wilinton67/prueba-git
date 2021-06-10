@@ -1,6 +1,6 @@
 window.addEventListener('load',()=>{
     //Timers
-    var timer=setInterval(function(){
+    /*var timer=setInterval(function(){
         var encabezado=document.querySelector('h1');
         if(encabezado.style.fontSize=="50px"){
             encabezado.style.fontSize='20px';
@@ -15,6 +15,6 @@ window.addEventListener('load',()=>{
         clearInterval(timer);
     })
 
-
+*/
 
 })
